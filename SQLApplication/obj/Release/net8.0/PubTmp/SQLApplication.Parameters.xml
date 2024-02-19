@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="trainingazurewebapp" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\AZ-204\ Sample\ Code\\SQLApplication\\SQLApplication\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
-  </parameter>
-</parameters>
